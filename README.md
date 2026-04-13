@@ -3,6 +3,8 @@
 > **El océano de conocimiento para la manada del ITVer.**
 > Una plataforma colaborativa diseñada para conectar estudiantes, facilitar asesorías académicas y fomentar el apoyo mutuo mediante un sistema de gamificación.
 
+[visita Deriva aqui](https://deriva.velantex.dev)
+
 [![Deploy en Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](#)
 [![Backend en Railway](https://img.shields.io/badge/Backend-Railway-purple?logo=railway)](#)
 [![Base de Datos](https://img.shields.io/badge/Database-Supabase-green?logo=supabase)](#)
@@ -61,8 +63,8 @@ El proyecto está construido bajo una arquitectura cliente-servidor escalable:
 
 Este proyecto fue desarrollado para la asignatura de Ingeniería de Software aplicando la metodología ágil Scrum:
 
-* **Arturo Báez:** Product Owner / Lead Backend Developer, Lead Frontend Developer, Backend Developer
-* **Uriel Flores:** Scrum Master / Database Administrator
+* **Arturo Báez:** Product Owner / Lead Backend Developer, Lead Frontend Developer, Database Administrator
+* **Uriel Flores:** Scrum Master / Database Developer [GitHub Profile](https://github.com/UrielCabrera05)
 * **Leonardo Ortiz:** Frontend Developer
 
 ---
