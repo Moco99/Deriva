@@ -3,7 +3,7 @@
 > **El océano de conocimiento para la manada del ITVer.**
 > Una plataforma colaborativa diseñada para conectar estudiantes, facilitar asesorías académicas y fomentar el apoyo mutuo mediante un sistema de gamificación.
 
-[visita Deriva aqui](https://deriva.velantex.dev)
+[Visita Deriva aqui](https://deriva.velantex.dev)
 
 [![Deploy en Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](#)
 [![Backend en Railway](https://img.shields.io/badge/Backend-Railway-purple?logo=railway)](#)
