@@ -16,11 +16,11 @@
 
 | Login Institucional | Tablero de Solicitudes (Feed) |
 | :---: | :---: |
-| ![Login](./assets/deriva_login.png)` <br> *Muestra la pantalla de inicio con el diseño de glassmorphism y el "Acceso de Tiburón".* | ![Feed](./assets/deriva_feed.png)` <br> *Muestra el feed principal donde se ven las tarjetas de las publicaciones filtradas por materia.* |
+| ![Login](./assets/deriva_login.png)` <br>  | ![Feed](./assets/deriva_feed.png)` <br> |
 
 | Chat en Tiempo Real | Perfil y Reputación |
 | :---: | :---: |
-| ![Chat](./assets/deriva_chat.png)` <br> *Captura de una conversación privada entre un solicitante y un ofertante.* | ![Perfil](./assets/deriva_profile.png)` <br> *Muestra el perfil del usuario presumiendo sus Créditos Tiburón acumulados.* |
+| ![Chat](./assets/deriva_chat.png)` <br>  | ![Perfil](./assets/deriva_profile.png)` <br>  |
 
 ---
 
@@ -61,9 +61,9 @@ El proyecto está construido bajo una arquitectura cliente-servidor escalable:
 
 [cite_start]Este proyecto fue desarrollado para la asignatura de Ingeniería de Software [cite: 11] [cite_start]aplicando la metodología ágil Scrum[cite: 122]:
 
-* [cite_start]**Arturo Báez:** Product Owner / Lead Backend Developer [cite: 124, 130]
+* [cite_start]**Arturo Báez:** Product Owner / Lead Backend Developer, Lead Frontend Developer, Backend Developer [cite: 124, 130]
 * [cite_start]**Uriel Flores:** Scrum Master / Database Administrator [cite: 126, 132]
-* [cite_start]**Leonardo Ortiz:** Lead Frontend Developer [cite: 131, 128]
+* [cite_start]**Leonardo Ortiz:** Frontend Developer [cite: 131, 128]
 
 ---
 
