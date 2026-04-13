@@ -16,11 +16,11 @@
 
 | Login Institucional | Tablero de Solicitudes (Feed) |
 | :---: | :---: |
-| `![Login](assets/deriva_login.png)` <br> *Muestra la pantalla de inicio con el diseño de glassmorphism y el "Acceso de Tiburón".* | `![Feed](/assets/deriva_feed.png)` <br> *Muestra el feed principal donde se ven las tarjetas de las publicaciones filtradas por materia.* |
+| ![Login](./assets/deriva_login.png)` <br> *Muestra la pantalla de inicio con el diseño de glassmorphism y el "Acceso de Tiburón".* | ![Feed](./assets/deriva_feed.png)` <br> *Muestra el feed principal donde se ven las tarjetas de las publicaciones filtradas por materia.* |
 
 | Chat en Tiempo Real | Perfil y Reputación |
 | :---: | :---: |
-| `![Chat](/assets/deriva_chat.png)` <br> *Captura de una conversación privada entre un solicitante y un ofertante.* | `![Perfil](/assets/deriva_profile.png)` <br> *Muestra el perfil del usuario presumiendo sus Créditos Tiburón acumulados.* |
+| ![Chat](./assets/deriva_chat.png)` <br> *Captura de una conversación privada entre un solicitante y un ofertante.* | ![Perfil](./assets/deriva_profile.png)` <br> *Muestra el perfil del usuario presumiendo sus Créditos Tiburón acumulados.* |
 
 ---
 
