@@ -30,11 +30,11 @@ Deriva nace de la necesidad de centralizar el apoyo académico dentro del Instit
 
 ### ✨ Características Principales
 
-***🔒 Acceso Exclusivo:** Validación de identidad mediante correo con dominio institucional para garantizar la seguridad de la comunidad.
-***🤝 Match Académico:** Sistema de publicación de solicitudes de ayuda y ofertas de tutoría, con filtros por materia y semestre.
-***💬 Comunicación Inmediata:** Chat integrado en tiempo real mediante WebSockets para coordinar las asesorías de forma privada.
-***🏆 Sistema de Reputación:** Los usuarios ganan **Créditos Tiburón** al completar tutorías exitosamente, promoviendo la participación activa.
-***🧠 Asistencia con Inteligencia Artificial:** Recomendación automática de tutores basada en el contenido de las solicitudes y clasificación inteligente de publicaciones.
+* **🔒 Acceso Exclusivo:** Validación de identidad mediante correo con dominio institucional para garantizar la seguridad de la comunidad.
+* **🤝 Match Académico:** Sistema de publicación de solicitudes de ayuda y ofertas de tutoría, con filtros por materia y semestre.
+* **💬 Comunicación Inmediata:** Chat integrado en tiempo real mediante WebSockets para coordinar las asesorías de forma privada.
+* **🏆 Sistema de Reputación:** Los usuarios ganan **Créditos Tiburón** al completar tutorías exitosamente, promoviendo la participación activa.
+* **🧠 Asistencia con Inteligencia Artificial:** Recomendación automática de tutores basada en el contenido de las solicitudes y clasificación inteligente de publicaciones.
 
 ---
 
@@ -61,8 +61,8 @@ El proyecto está construido bajo una arquitectura cliente-servidor escalable:
 
 Este proyecto fue desarrollado para la asignatura de Ingeniería de Software aplicando la metodología ágil Scrum:
 
-***Arturo Báez:** Product Owner / Lead Backend Developer, Lead Frontend Developer, Backend Developer
-***Uriel Flores:** Scrum Master / Database Administrator
-***Leonardo Ortiz:** Frontend Developer
+* **Arturo Báez:** Product Owner / Lead Backend Developer, Lead Frontend Developer, Backend Developer
+* **Uriel Flores:** Scrum Master / Database Administrator
+* **Leonardo Ortiz:** Frontend Developer
 
 ---
